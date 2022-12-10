@@ -1,0 +1,10 @@
+.main-container {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
